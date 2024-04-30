@@ -1,6 +1,16 @@
-# ComputationalTheory
+# Computational Theory
 
 This repository contains a jupyter notebook that constitutes my assessment submission for the Computational Theory Module at ATU Galway. The aim of the notebook is to provide an analysis of the Countdown Numbers Game. Firstly, I provide an explanation of the game and give an example of the game in action. Following the explanation, I delve into an analysis of the computational complexity of the game and provide various approaches to solving the game, namely: Brute Force Approach, Reverse Polish Notation and Recursion. Lastly, I will evaluate my findings from solving the problem using various approaches.
+
+# Contents of the Notebook
+
+- Introduction
+- Explanation of the Countdown Numbers Game
+- Analysis of the Computational Complexity
+- Brute Force Approach
+- Reverse Polish Notation
+- Recursive Search 
+- Conclusion
 
 # Running the Notebook
 
